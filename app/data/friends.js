@@ -2,7 +2,7 @@
 const friendsArray = [{
     name: "Hobbs",
     photo: "https://amp.businessinsider.com/images/5b462c57f4af9c1a008b45eb-640-480.jpg",
-    scores: [5, 1, 3,2, 4, 2, 1, 2, 5, 4]
+    scores: [5, 1, 3, 2, 4, 2, 1, 2, 5, 4]
 },
 {
     name: "Tony",
@@ -15,9 +15,9 @@ const friendsArray = [{
     scores: [2, 4, 1, 4, 5, 1, 2, 4, 5, 3]
 },
 {
-    name: "Clint",
-    photo: "https://s1.r29static.com//bin/entry/4cf/720x864,85/2169618/your-postemendgameem-black-widow-movie-2169618.webp",
-    scores: [5, 1, 3, 2, 4, 2, 1, 2, 5, 4]
+    name: "Peter",
+    photo: "https://i.kinja-img.com/gawker-media/image/upload/s--uyLKr_6b--/c_scale,f_auto,fl_progressive,q_80,w_800/qjunarg3ykfsxqy212hl.png",
+    scores: [3, 1, 3, 2, 5, 2, 1, 2, 5, 3]
 },
 {
     name: "Diana",
