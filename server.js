@@ -1,7 +1,6 @@
 //Dependencies
 const express = require("express");
 const path = require("path");
-const bodyparser = require("body-parser");
 
 //Initiate express
 const app = express();
