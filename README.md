@@ -1,7 +1,7 @@
 # FriendFinder
 
 ### Overview
-FriendFinder is a compatibility-based app to find "friends" base off of matching personality answers.
+FriendFinder is a compatibility-based app to find "friends" based off of matching personality answers.
 
 ![screenshot](images/friend-finder.jpg)
 
